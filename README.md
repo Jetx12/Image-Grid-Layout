@@ -1,3 +1,3 @@
-## Project Link
-Anda dapat mengakses repositori proyek ini melalui tautan berikut:
-[GitHub - Image Grid Layout](https://github.com/Jetx12/Image-Grid-Layout)
+### Project Challenge Page
+Solusi ini dibuat untuk menyelesaikan proyek dari Roadmap.sh:
+https://roadmap.sh
